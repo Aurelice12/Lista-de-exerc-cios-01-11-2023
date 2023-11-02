@@ -1,5 +1,6 @@
 from professor import Professor
 from disciplina import Disciplina
+from atividade import Atividade
 
 disc = Disciplina()
 prof = Professor()
